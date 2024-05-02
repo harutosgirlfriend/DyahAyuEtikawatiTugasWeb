@@ -11,10 +11,7 @@
  margin-top: -100px;
     
 }
-#aboutus:hover,#what:hover,#contact:hover,#home:hover{
-    background: rgb(122, 122, 122);
-    border-radius: 10px;
-}
+
 #ig,#facebook,#twitter{
     color: black;
 }
