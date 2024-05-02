@@ -1,0 +1,22 @@
+.jumbotron{
+  
+}
+.cont{
+    background-image: url(img/fuku.jpg);
+    background-size: cover;
+}
+.image{
+    
+   padding-top: 80px;
+    
+}
+#aboutus:hover,#what:hover,#contact:hover,#home:hover{
+    background: rgb(122, 122, 122);
+    border-radius: 10px;
+}
+#ig,#facebook,#twitter{
+    color: black;
+}
+.container a{
+    margin: 10px;
+}
