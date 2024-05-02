@@ -4,11 +4,10 @@
 .cont{
     background-image: url(img/fuku.jpg);
     background-size: cover;
-    height: 300px;
-    border-radius: 5px;
 }
 .image{
-    margin-top: -100px;
+    
+   padding-top: 80px;
     
 }
 #aboutus:hover,#what:hover,#contact:hover,#home:hover{
@@ -20,5 +19,4 @@
 }
 .container a{
     margin: 10px;
-    
 }
